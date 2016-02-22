@@ -1,0 +1,52 @@
+﻿searcher http://ghostbin.com/paste/uhbxh
+This is an instructable on using the correct search terms to find ISIS-related
+links. If you follow
+it correctly and verify that the sites you have found are related to ISIS, please
+submit them, thx!
+-----------
+Instructions
+------------
+1. Get Python at https://www.python.org/downloads/ unless you already have it
+(Mac does)
+2. Open Terminal (or Command Prompt for Windows) and type (without quotes)
+"python"
+3. Now, this step requires a little explanation. Let's set this out neatly, shall we...
+• Copy the contents of the following link to your clipboard
+https://ghostbin.com/paste/oo4tb
+• The contents of that link are some search terms that relate to ISIS and their
+content, allowing
+you to narrow down the results to specific ones.
+• Paste the strings into the Terminal and press Enter
+4. Choose a couple of strings (3 recommended) from the list of strings. For this
+example we will use
+strings 3+38+46
+5. Once chosen, continue in terminal (without quotes) "print(str3+str38+str42)" and
+copy the results
+6. Paste the results in https://www.google.iq and analyze the new results
+To translate pages, it is recommended to use Google Chrome, which has
+integrated translation
+7. Submit any valid ones to one of the channel operators and we will deal with the
+info accordingly
+THANKS FOR READING
+PLEASE PARTICIPATE
+
+searcher
+이 내용은 ISIS와 관련된 링크를 정확히 찾기 위한 설명문입니다
+만약 확실 관련된 ISIS 사이틀 찾으셨다면 제출해주세요 !
+설명
+1.이미 있지않는 이상 https://www.python.org/downloads/ 에서 파이썬을 다운 받아주세
+요(Mac 은 이미 파이썬이 있습니다
+2.터미널을 열고(window 를 사용하신다면 cmd 창) phyton 이라고 치세요
+3.이번에는 약간에 설명들이 있습니다 .. 어디한번 볼까요 ..
+- https://gist.github.com/rgaidot/96089485bdde340dbfd8 에서 내용 복사해주세요
+(원레 https://ghostbin.com/paste/oo4tb 인데 이사이트는 다운 되서 다른곳 올립니다)
+-이 링크에 내용들은 ISIS 관련된것들은 찾기 위한것이고 확실한 결과물을 찾기위 필터링 해
+준다
+-내용물들을 터미널에 붙여넣기 하고 엔터를 누르세요
+4. 리스트 내용에 몇줄을 고르세요(3개정도 추천합니다) 예를 들어서 3+38+46
+5.다 고르셨다면 터미널에 print(str3+str38+str46 라고 쓰고 결과물을 복사하세요
+6 http:www.google.iq 에 붙여넣기 하시고 결과물들을 분석하세요
+-페이지 번역은 구글 크롬 을 사용하는것을 추천합니다
+7. 내용물들을 operator (어나니머스) 에게 제출하시면 저희들이 정보를 받겠습니다
+읽어주셔서 감사합니다
+부디 참여해주세요      

@@ -1,0 +1,54 @@
+﻿reporter http://ghostbin.com/paste/vt5zz
+----------
+References
+----------
+Twitter Reporter >>> https://ghostbin.com/paste/pjuox
+Primary Targets >>> https://ghostbin.com/paste/fgrfx
+Python Language >>> https://www.python.org/downloads
+Splinter Module >>> http://num.to/guide/718262837890
+The bot has been modified to report account IDs rather than usernames.
+This allows the retainment of users who change their usernames often.
+Make sure that your connection is protected, preferably using a VPN.
+This tutorial will NOT work on Mac OS X due to incompatibility.
+------------
+Instructions
+------------
+1. Create an anonymous twitter account (unrelated to your identity).
+2. Download the Twitter Reporter (save as TR5.py) and the Primary Targets as raw
+text, and
+place both on your Desktop. Windows users should also download Python. Link
+at the top.
+3. Install the Splinter module. Link can be found above (supports Python 2.5 — 2.7
+only).
+4. Open Terminal (or CMD on Windows) and type (without quotes) "cd Desktop"
+5. Type the following command and replace TWITTER with your own anonymous
+twitter username.
+"python TR5.py -u TWITTER -i 5K.txt"
+6. Enter your anonymous twitter credentials.
+THANKS FOR READING
+PLEASE PARTICIPATE
+
+reporter
+참고
+1)Twitter Reporter >>> https://ghostbin.com/paste/pjuox
+2)Primary Targets >>> https://ghostbin.com/paste/fgrfx
+3)Python Language >>> https://www.python.org/downloads
+4)Splinter Module >>> http://num.to/guide/718262837890
+여기 봇(프로그램)은 ID 봐는 유저네임 을 찾습니다
+이건 유저네임을 바꾼 사용자도 계속 유지 됩니다
+너의 네트워크가 보호됬는지 반드시 확인하고, vpn을 사용하면 더 좋습니다
+설명
+1. 트위터 새 익명 계정을 만드세요 ( 너의 신분과 전혀 관련 없게)
+2. 1)twitter reporter를 다운 하세요(TR5.py라고 저장하세요) 그리고 2)primar target을 화
+면에 띄어 놓으세요. 윈도우 사용하시는 분들은 python 반드시 다운받으셔야합니다
+3)python language에서 다운받으시면 됩니다
+3. 3)Splinter Module 을 설치하세요 (python 2.5~2.7 버전만 지원합니다)
+4.터미널을 열으시고(윈도우 사용하신다면 cmd 창) 그리고 cd Desktop 라고 치세요
+5. (새 계정) 이라는 부분에 1.에서 만드신 여러분 계정 username 을 쓰시면 됩니다
+python TR5.py -u (새 계정) -i 5K.txt
+6. 너의 익명 트위터 자격을 얻으세요
+읽어주셔서 감사합니다
+꼭 참여해주세요
+아직 제가 영어실력이 부족해서 그런지 6.에서 발번역을 했습니다 ..
+중간중간 번역 생략한것도 있는데 내용 따라하는데 큰 어려움은 없을것입니다
+수정문의는 tjdus443@naver.com 로 보내주세요
